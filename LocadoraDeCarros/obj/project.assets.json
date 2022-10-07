@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vinicius Passos\\source\\repos\\LocadoraDeCarros - Com Interface\\LocadoraDeCarros\\LocadoraDeCarros.csproj",
+      "projectUniqueName": "C:\\Users\\Vinicius Passos\\source\\repos\\LocadoraDeCarros\\LocadoraDeCarros\\LocadoraDeCarros.csproj",
       "projectName": "LocadoraDeCarros",
-      "projectPath": "C:\\Users\\Vinicius Passos\\source\\repos\\LocadoraDeCarros - Com Interface\\LocadoraDeCarros\\LocadoraDeCarros.csproj",
+      "projectPath": "C:\\Users\\Vinicius Passos\\source\\repos\\LocadoraDeCarros\\LocadoraDeCarros\\LocadoraDeCarros.csproj",
       "packagesPath": "C:\\Users\\Vinicius Passos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vinicius Passos\\source\\repos\\LocadoraDeCarros - Com Interface\\LocadoraDeCarros\\obj\\",
+      "outputPath": "C:\\Users\\Vinicius Passos\\source\\repos\\LocadoraDeCarros\\LocadoraDeCarros\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
