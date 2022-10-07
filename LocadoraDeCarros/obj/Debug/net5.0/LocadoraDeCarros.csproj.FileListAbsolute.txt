@@ -1,0 +1,32 @@
+C:\Users\Vinicius Passos\source\repos\LocadoraDeCarros\LocadoraDeCarros\bin\Debug\net5.0\LocadoraDeCarros.exe
+C:\Users\Vinicius Passos\source\repos\LocadoraDeCarros\LocadoraDeCarros\bin\Debug\net5.0\LocadoraDeCarros.deps.json
+C:\Users\Vinicius Passos\source\repos\LocadoraDeCarros\LocadoraDeCarros\bin\Debug\net5.0\LocadoraDeCarros.runtimeconfig.json
+C:\Users\Vinicius Passos\source\repos\LocadoraDeCarros\LocadoraDeCarros\bin\Debug\net5.0\LocadoraDeCarros.runtimeconfig.dev.json
+C:\Users\Vinicius Passos\source\repos\LocadoraDeCarros\LocadoraDeCarros\bin\Debug\net5.0\LocadoraDeCarros.dll
+C:\Users\Vinicius Passos\source\repos\LocadoraDeCarros\LocadoraDeCarros\bin\Debug\net5.0\LocadoraDeCarros.pdb
+C:\Users\Vinicius Passos\source\repos\LocadoraDeCarros\LocadoraDeCarros\obj\Debug\net5.0\LocadoraDeCarros.csproj.AssemblyReference.cache
+C:\Users\Vinicius Passos\source\repos\LocadoraDeCarros\LocadoraDeCarros\obj\Debug\net5.0\LocadoraDeCarros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius Passos\source\repos\LocadoraDeCarros\LocadoraDeCarros\obj\Debug\net5.0\LocadoraDeCarros.AssemblyInfoInputs.cache
+C:\Users\Vinicius Passos\source\repos\LocadoraDeCarros\LocadoraDeCarros\obj\Debug\net5.0\LocadoraDeCarros.AssemblyInfo.cs
+C:\Users\Vinicius Passos\source\repos\LocadoraDeCarros\LocadoraDeCarros\obj\Debug\net5.0\LocadoraDeCarros.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius Passos\source\repos\LocadoraDeCarros\LocadoraDeCarros\obj\Debug\net5.0\LocadoraDeCarros.dll
+C:\Users\Vinicius Passos\source\repos\LocadoraDeCarros\LocadoraDeCarros\obj\Debug\net5.0\refint\LocadoraDeCarros.dll
+C:\Users\Vinicius Passos\source\repos\LocadoraDeCarros\LocadoraDeCarros\obj\Debug\net5.0\LocadoraDeCarros.pdb
+C:\Users\Vinicius Passos\source\repos\LocadoraDeCarros\LocadoraDeCarros\obj\Debug\net5.0\LocadoraDeCarros.genruntimeconfig.cache
+C:\Users\Vinicius Passos\source\repos\LocadoraDeCarros\LocadoraDeCarros\obj\Debug\net5.0\ref\LocadoraDeCarros.dll
+C:\Users\Vinicius Passos\source\repos\LocadoraDeCarros - Com Interface\LocadoraDeCarros\bin\Debug\net5.0\LocadoraDeCarros.exe
+C:\Users\Vinicius Passos\source\repos\LocadoraDeCarros - Com Interface\LocadoraDeCarros\bin\Debug\net5.0\LocadoraDeCarros.deps.json
+C:\Users\Vinicius Passos\source\repos\LocadoraDeCarros - Com Interface\LocadoraDeCarros\bin\Debug\net5.0\LocadoraDeCarros.runtimeconfig.json
+C:\Users\Vinicius Passos\source\repos\LocadoraDeCarros - Com Interface\LocadoraDeCarros\bin\Debug\net5.0\LocadoraDeCarros.runtimeconfig.dev.json
+C:\Users\Vinicius Passos\source\repos\LocadoraDeCarros - Com Interface\LocadoraDeCarros\bin\Debug\net5.0\LocadoraDeCarros.dll
+C:\Users\Vinicius Passos\source\repos\LocadoraDeCarros - Com Interface\LocadoraDeCarros\bin\Debug\net5.0\LocadoraDeCarros.pdb
+C:\Users\Vinicius Passos\source\repos\LocadoraDeCarros - Com Interface\LocadoraDeCarros\obj\Debug\net5.0\LocadoraDeCarros.csproj.AssemblyReference.cache
+C:\Users\Vinicius Passos\source\repos\LocadoraDeCarros - Com Interface\LocadoraDeCarros\obj\Debug\net5.0\LocadoraDeCarros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius Passos\source\repos\LocadoraDeCarros - Com Interface\LocadoraDeCarros\obj\Debug\net5.0\LocadoraDeCarros.AssemblyInfoInputs.cache
+C:\Users\Vinicius Passos\source\repos\LocadoraDeCarros - Com Interface\LocadoraDeCarros\obj\Debug\net5.0\LocadoraDeCarros.AssemblyInfo.cs
+C:\Users\Vinicius Passos\source\repos\LocadoraDeCarros - Com Interface\LocadoraDeCarros\obj\Debug\net5.0\LocadoraDeCarros.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius Passos\source\repos\LocadoraDeCarros - Com Interface\LocadoraDeCarros\obj\Debug\net5.0\LocadoraDeCarros.dll
+C:\Users\Vinicius Passos\source\repos\LocadoraDeCarros - Com Interface\LocadoraDeCarros\obj\Debug\net5.0\refint\LocadoraDeCarros.dll
+C:\Users\Vinicius Passos\source\repos\LocadoraDeCarros - Com Interface\LocadoraDeCarros\obj\Debug\net5.0\LocadoraDeCarros.pdb
+C:\Users\Vinicius Passos\source\repos\LocadoraDeCarros - Com Interface\LocadoraDeCarros\obj\Debug\net5.0\LocadoraDeCarros.genruntimeconfig.cache
+C:\Users\Vinicius Passos\source\repos\LocadoraDeCarros - Com Interface\LocadoraDeCarros\obj\Debug\net5.0\ref\LocadoraDeCarros.dll
